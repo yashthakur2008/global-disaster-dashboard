@@ -104,7 +104,7 @@ function App() {
           </article>
         ))}
         <footer>
-          Follow official emergency services for protective action.
+          Awareness only. Follow official emergency services for protective action.
         </footer>
       </aside>
     </main>
