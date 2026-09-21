@@ -1,0 +1,21 @@
+{
+  "name": "global-disaster-dashboard",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Open global multi-disaster awareness dashboard inspired by God's Eye View.",
+  "scripts": {
+    "dev": "vite --host localhost --port 5174",
+    "build": "vite build",
+    "preview": "vite preview --host localhost --port 4174",
+    "test": "node --test src/**/*.test.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "typescript": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {}
+}
